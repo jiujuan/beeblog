@@ -58,5 +58,13 @@ Vue3 + Tailwind CSS + shadcn/ui +Vite+TS
 
 [数据库建表语句](./antblog-server/docs/sqls/sqls.sql)
 
+## 配置文档
+
+启动博客程序时，服务端地址和端口，
+
+先修改配置文件里的MySQL配置，redis配置，上传图片地址文件夹upload，jwt的密匙
+
+antblog-server/config/config/config/yaml
+
 ## 博客页面预览
 
