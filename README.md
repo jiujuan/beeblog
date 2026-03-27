@@ -38,17 +38,16 @@ antblog 蚂蚁博客
 
 Vue3 + Tailwind CSS + shadcn/ui +Vite+TS
 
-## 架构设计
+## 架构设计文档
 
-[后端架构架构设计文档](./antblog-server/antblog-backend-structure.md)
+[后端架构架构设计文档](./antblog-server/docs/antblog-backend-structure.md)
 
 
-
-[前端架构架构设计文档](./antblog-server/antblog-frontend-structure.md)
+[前端架构架构设计文档](./antblog-server/docs/antblog-frontend-structure.md)
 
 ## 数据库
 
-[数据库建表语句](./docs/sqls/sqls.sql)
+[数据库建表语句](./antblog-server/docs/sqls/sqls.sql)
 
 ## 博客页面预览
 
