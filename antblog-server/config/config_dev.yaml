@@ -12,7 +12,7 @@ server:
 
 database:
   driver: mysql
-  dsn: "root123:root123456@tcp(127.0.0.1:3306)/antblog?charset=utf8mb4&parseTime=True&loc=Local"
+  dsn: "root:root123456@tcp(127.0.0.1:3306)/antblog?charset=utf8mb4&parseTime=True&loc=Local"
   max_open_conns: 100
   max_idle_conns: 10
   conn_max_lifetime: 3600
