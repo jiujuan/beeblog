@@ -1,6 +1,6 @@
 # AntBlog Web
 
-> Vue 3 + TypeScript + Tailwind CSS + shadcn-vue — Editorial 风格个人博客前端
+> Vue 3 + TypeScript + Tailwind CSS + shadcn-vue
 
 ## 技术栈
 
